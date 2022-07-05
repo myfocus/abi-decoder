@@ -1,16 +1,16 @@
-# abi-decoder
+# abi-decoder-smart
 Nodejs and Javascript library for decoding data params and events from etherem transactions
 
 # Install
 ```
-npm install abi-decoder
-bower install abi-decoder
+npm install abi-decoder-smart
+bower install abi-decoder-smart
 ```
 
 # Instantiate
 ```js
 <script src="bower_components/abi-decoder/dist/abi-decoder.js"> // Javascript
-const abiDecoder = require('abi-decoder'); // NodeJS
+const abiDecoder = require('abi-decoder-smart'); // NodeJS
 ```
 
 # Add ABI's
